@@ -1,0 +1,15 @@
+package com.projeto.variaveisjava;
+
+public class Variavel {
+
+	public static void main(String[] args) {
+		byte minhaVariavelByte = 10;
+		int minhaVariavelInt = 10000000;
+		long minhaVariavelInt = 1000000000000;
+		
+		System.out.println(minhaVariavelByte);
+		System.out.println(minhaVariavelInt);
+		System.out.println(minhaVariavelLong);
+	}
+
+}

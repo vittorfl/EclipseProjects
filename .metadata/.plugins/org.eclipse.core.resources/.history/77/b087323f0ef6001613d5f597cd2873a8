@@ -1,0 +1,11 @@
+package com.projeto.variaveisjava;
+
+public class Variavel {
+
+	public static void main(String[] args) {
+		byte minhaVariavelByte;
+		
+		System.out.println(minhaVariavelByte);
+	}
+
+}
