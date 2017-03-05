@@ -1,0 +1,14 @@
+package com.projeto.metodos;
+
+public class Metodos {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	public static void meuMetodo() {
+		System.out.println("Esse é o meu método");
+	}
+
+}
